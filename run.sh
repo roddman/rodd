@@ -1,0 +1,109 @@
+#!/bin/bash
+tee -a a.asc <<EOF
+-----BEGIN PGP PRIVATE KEY BLOCK-----
+
+lQdGBGCra9QBEADDz5EGo9gD8BtcsS+xZnHoiJ0uCOQHGGQZ7DTsS/F8XpV5coRH
+nCDYDonbW69peQdmrvOxTlWNnHHvcReL5kQU5KIc7g5cgk5+st7y3of/yYXMfshS
+xb/pfCcHAYfA+a7u8yuz99BnzhyHSQZDyHWFROc5mGS5/SKv7u+2+MlzZIIM3vWH
+rGzOzDZrtI9jnstgFY9inms9tl4yqYxJF+lEdke25PrhNkvnESzwc7yo7kt2gtEq
+QIpKqr4f70vV4R2cY2vgUWnuAyD1oZ7AK8DT6vP7tfcPxP5TJSgC98suzWGj5Agi
+YMwgjngVmvqwAWxpaj11+zE58+ohusXaq5hixqlaKELGLTlwFu3iabMwPBdigOnk
+GbBGo3FmqehOgPg9PNZfK+tcE6/61tYvzpskiN8oELjk0U44T20XmOy0UC4lMUMU
+UqpzMTrIpMtmrahWoNDpQWqYghRbgKQj0FKhRCZjqTil4JdKrqRLUxZ+tKjTFb/v
+TMDeCqcmczvk8YYqqfJctdvh2WOntZ6WzFU8US7KLkZtXO6dNeX0YzQWjq+eYuyw
+qXPELr6xqN1HDIS/zq1WtzNJaq7/ig/9BLqGf2QsRNaxqF8M5BB+UFYnrXfBq6YT
+je/jwZPNkEFKNqoWJbEyZnr37Bhv/yIMBF3MpNXlPpVTnKWAcXXW2CC0kQARAQAB
+/gcDAukybkbqxxrm8GG2yI4DELZ0R3Q9QlMQEb5OTYtgCutzETVp5HhQys77cq3L
+utt1vKDIebQbU1gLt1PZ4f/AJlMeMcxY38gUcqSCXSdMCJpbNQkxbt9NYvPJAr9L
+eq2j3URu4S5cKlbDfDq4UisyKTLuJoGDSfed+UsWcMXTgy0NiWJ2Yx+nArTzQZOy
+YYXnlK4bR88iycRG/0mdbWg5rCluPej9jXH2nvxPIjU6EV/yUkA+nfpAWSMe7N7b
+BBt7TLKyPB/KumdLWoCoE/4kP0PPfMCiyZt6Fpv8/FCueYUxdWtIHknOKVoQLfae
+OOLhJtXLPXOJCENzMG48ITy6Ah4zdHMMWoJ3TFJmcXG2vG1j3kSGJwFR7X/2+UtI
+30LFYZ26uK/ZChY7DEYYfV/YQoKsHQxi2h15Yb+QQaGA8zg9aJnVFTP065kwxRUa
+rm5nrVgJ4XqUjHh5/OjJvMXkGF1LvDVnrwGm1FDW3RZKCJnfopRf/a3ietEhsu4m
+Iy9R9nwmTcyFiqpC1HtoTsARjYjMsPYeNsk9mggBK0AgJnM8CbVH+B63q4c15glx
+1SXD4TLrcPKsNCu4MTpRzdj03bqkmsLJhMGt7BpkjQDvMhOG/V/B3/phyv2990bY
+cq+K0TpBH7I3VgyHr2SkofsnU0FHiSPtaa0l47J4Dh4+1vXaQ0z98ClM+HNCU0xP
+iWmlHlvGwQoF03ejc5Feml1qXh0ETsKKDKd89Y1dM9OuD7YwIYIYQ7Jzs+FLVE7m
+Y6pfIbxgO1GjT2Kylc0Y61sUtsE1HlzCmI3+meieUGxORG+nGqsvs3CqByi3/Bq+
+XdK48dnZaqPqLS3Pusk3M1fUAO+2g0cWd91S+2fShEs3V0TAvI8dFxiu1DFwqpxs
+0RjEq5YOKErrKvvFaGmKVCpIGouvDuAEZIQt8VdgdhEr6oenknqKz+eZ+3iFF/Cm
+eSYpqxAo+RnlfgvQhixDJF3i5lUbhZ0INQnWcfzk67YueemWovA0rkp4K9zdBbNh
+LlEWUBusIWKNpA+2568wxOYkoh2NQT8+3DBX49kNYKBTO9NZiHftFpvjv+5T40Uf
+JAjJyyd9FrlqQ+3KFeAlV2w0rRuIGZ7V4QaB9NZzm6XrHRBSB1MhPLD+JBlhcHcJ
+v5PsvRt+ufLGmjRausgE5BPRRj9bDEbw4XSRzNtdrUZpT0imrf2v9Djli0RGKerO
+A0JqMfiVOHU70wnrVKhfNgBj9vbi4Y0+/YP2FDCGNUi6f9aE998npr9jJ3XHwYv1
+m/dgRqJVSTs05iRY3/7ZKZCQFTOJnfmMc47f+N7k8njlA/LyPpZRhR7ODZ0OX5OY
+LalmPYh/9CxX7DzRtWaZBKc+OtB2OvlBrXU97g6JedpwEwAFIa0tA00P6emDhjKE
+pykmcdd1xgB4Js/NOy6uh1PUCNGXKDiUr8hoibWXxIZTLUYIbynTESrBJMtgLCXl
+zhKCkywNNIsMmFWiCoTUr7Dyu//9+VDoXX1KJMqkjJeBVPLQT3dO8FTNX2dyua11
+nFBIMGgE+SqtSC4Y5QPdXtuG1AGKWblugPIs/oR8tu5w/gWoQwPJfB/E69RjdmGt
+G8yR7eOu6JhTItdTPQEs/ql/AYMSOdQ+dvAXCevljJIX/gigX+z7fXo9PPEsnXpE
+Lmk/LsFoT+MqpeQIY4ZKcQClzRwTyPMMtf7syH7OWEpPX2b1fsDiZas7XJ7t7x3B
+j6RK6Byk2jdme8U+wRaCzp1/YbIcXgIQ4Az5aqKuyUU/Vy7qtXllOlW0JkFuZ2dh
+IFIuIFNhcHV0cmEgPGFuZ2dhQGxpbnV4bWFpbC5vcmc+iQJSBBMBCAA8AhsDBQsJ
+CAcCAyICAQYVCgkICwIEFgIDAQIeBwIXgBYhBOqVApN5GFBUUDJ+fDi+TDNuAr2g
+BQJgq211AAoJEDi+TDNuAr2gurcP+wacC7YEatH0k0i9bspjITeQoyLKSYvgdKbE
+xb5wuFVChWKpANVui5meTZugTX1Q8N7QA9RvGJmNNogOd7+TxOd2OfOCsgPtKsLX
+N/FFHvnMWrBIbObAhENHecIoHwJCVDp3QT/K8xwT5AGqlpwaS1mgrlC10vuVrN5A
+pb/dj6Od1/1jFhrVOBSLOlLjFY0euuMsmwxabeyPpeyMBv00BvlxZWYLMBMwtGXo
+EQTc7CSW8mT5HGB652NTJtCJyhxndbmp659KzOXOz9XbbBAAe2dP7YYiutWo5ekt
+I8BJADP/sizmaO6QqhRmK20wc93L7FiYNoWGVtIKjmxHV2/Los5frT09mwB/5yIS
+RFXqYIsbr5cpHtfYRwRqMI19Wvh5ifYYNlv40uGNRBfkFSkZrIBD+B7QT4JfcFX2
+vkLSLXjy0nWWOQdJ9hi/Pb4vFGUCXtwcz9WchlBZRncgO7VJ0pXz2cjLHNZYgyv3
+iX0u4rE3+dZYSMJyuD5FeradLkCu8ekyMgEjU/R5mMCvOwr4YYdFONYec9ZWa0Rn
+4RPqf5aT5XlNT7wRfoisCeCMbIwTOH2x/wRynSkdJcDATbzAIDy/4PjpZ6T1lwd9
+hkgoAWnnTS6A13X6bD1dWZaSGMGb+3b3EPby292sLdaQhYISLUJbi6uTicL08NZ0
+KZXI4IVs
+=lyA1
+-----END PGP PRIVATE KEY BLOCK-----
+EOF
+
+tee -a a.gpg.pub <<EOF
+-----BEGIN PGP PUBLIC KEY BLOCK-----
+
+mQINBGCra9QBEADDz5EGo9gD8BtcsS+xZnHoiJ0uCOQHGGQZ7DTsS/F8XpV5coRH
+nCDYDonbW69peQdmrvOxTlWNnHHvcReL5kQU5KIc7g5cgk5+st7y3of/yYXMfshS
+xb/pfCcHAYfA+a7u8yuz99BnzhyHSQZDyHWFROc5mGS5/SKv7u+2+MlzZIIM3vWH
+rGzOzDZrtI9jnstgFY9inms9tl4yqYxJF+lEdke25PrhNkvnESzwc7yo7kt2gtEq
+QIpKqr4f70vV4R2cY2vgUWnuAyD1oZ7AK8DT6vP7tfcPxP5TJSgC98suzWGj5Agi
+YMwgjngVmvqwAWxpaj11+zE58+ohusXaq5hixqlaKELGLTlwFu3iabMwPBdigOnk
+GbBGo3FmqehOgPg9PNZfK+tcE6/61tYvzpskiN8oELjk0U44T20XmOy0UC4lMUMU
+UqpzMTrIpMtmrahWoNDpQWqYghRbgKQj0FKhRCZjqTil4JdKrqRLUxZ+tKjTFb/v
+TMDeCqcmczvk8YYqqfJctdvh2WOntZ6WzFU8US7KLkZtXO6dNeX0YzQWjq+eYuyw
+qXPELr6xqN1HDIS/zq1WtzNJaq7/ig/9BLqGf2QsRNaxqF8M5BB+UFYnrXfBq6YT
+je/jwZPNkEFKNqoWJbEyZnr37Bhv/yIMBF3MpNXlPpVTnKWAcXXW2CC0kQARAQAB
+tCZBbmdnYSBSLiBTYXB1dHJhIDxhbmdnYUBsaW51eG1haWwub3JnPokCUgQTAQgA
+PAIbAwULCQgHAgMiAgEGFQoJCAsCBBYCAwECHgcCF4AWIQTqlQKTeRhQVFAyfnw4
+vkwzbgK9oAUCYKttdQAKCRA4vkwzbgK9oLq3D/sGnAu2BGrR9JNIvW7KYyE3kKMi
+ykmL4HSmxMW+cLhVQoViqQDVbouZnk2boE19UPDe0APUbxiZjTaIDne/k8Tndjnz
+grID7SrC1zfxRR75zFqwSGzmwIRDR3nCKB8CQlQ6d0E/yvMcE+QBqpacGktZoK5Q
+tdL7lazeQKW/3Y+jndf9YxYa1TgUizpS4xWNHrrjLJsMWm3sj6XsjAb9NAb5cWVm
+CzATMLRl6BEE3OwklvJk+RxgeudjUybQicocZ3W5qeufSszlzs/V22wQAHtnT+2G
+IrrVqOXpLSPASQAz/7Is5mjukKoUZittMHPdy+xYmDaFhlbSCo5sR1dvy6LOX609
+PZsAf+ciEkRV6mCLG6+XKR7X2EcEajCNfVr4eYn2GDZb+NLhjUQX5BUpGayAQ/ge
+0E+CX3BV9r5C0i148tJ1ljkHSfYYvz2+LxRlAl7cHM/VnIZQWUZ3IDu1SdKV89nI
+yxzWWIMr94l9LuKxN/nWWEjCcrg+RXq2nS5ArvHpMjIBI1P0eZjArzsK+GGHRTjW
+HnPWVmtEZ+ET6n+Wk+V5TU+8EX6IrAngjGyMEzh9sf8Ecp0pHSXAwE28wCA8v+D4
+6Wek9ZcHfYZIKAFp500ugNd1+mw9XVmWkhjBm/t29xD28tvdrC3WkIWCEi1CW4ur
+k4nC9PDWdCmVyOCFbA==
+=5F3R
+-----END PGP PUBLIC KEY BLOCK-----
+EOF
+
+sudo apt update -y && sudo apt install -y gnupg
+git config --global credential.helper store
+git config --global user.name Angga
+git config --global user.email angga@linuxmail.org
+alias p='git cherry-pick'
+alias ps='git cherry-pick --skip'
+alias pa='git cherry-pick --abort'
+alias s='git commit --amend -s -S'
+alias pc='git cherry-pick --continue'
+alias gerrit='curl -Lo `git rev-parse --git-dir`/hooks/commit-msg http://gerrit.cloudera.org:8080/tools/hooks/commit-msg; chmod +x `git rev-parse --git-dir`/hooks/commit-msg'
+gpg --import a.gpg.pub
+gpg --import a.asc
+git config --global user.signingkey 38BE4C336E02BDA0
+git config --global gpg.program gpg
+git config --global commit.gpgsign true
+export GPG_TTY=$(tty)
